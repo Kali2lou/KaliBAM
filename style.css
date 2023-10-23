@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
 }
+
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 10px;
@@ -96,7 +97,7 @@ img{
     padding: 0;
 }
 
-section img {
+div img {
     width: 1450px;
     
 }
